@@ -3,8 +3,8 @@
 //
 #include "iostream"
 #include "vector"
-#include "../GraphDirectory/Edge.h"
-#include <nlohmann/json.hpp>
+#include "include/Graph/Edge.h"
+#include "nlohmann/json.hpp"
 
 
 #ifndef PWEOPTIMIZATION_RAY_H

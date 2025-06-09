@@ -6,7 +6,7 @@
 #define PWEOPTIMIZATION_RAYHANDLER_H
 
 
-#include "../GraphDirectory/Graph.h"
+#include "include/Graph/Graph.h"
 #include "SystemState.h"
 #include "ModeHandler.h"
 

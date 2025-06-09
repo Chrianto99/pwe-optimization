@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include "GraphDirectory/Graph.h"
-#include "PropagationDirectory/RayHandler.h"
+#include "include/Graph/Graph.h"
+#include "include/Propagation/RayHandler.h"
 #include <chrono>
 
 

@@ -4,7 +4,7 @@
 #include <random>
 #include "iostream"
 #include "array"
-#include "../GraphDirectory/Graph.h"
+#include "include/Graph/Graph.h"
 #include "random"
 #include <chrono>
 #ifndef PWEOPTIMIZATION_MODEMANAGER_H

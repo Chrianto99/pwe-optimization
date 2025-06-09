@@ -7,7 +7,7 @@
 #include <unordered_map>
 #include <array>
 
-#include "../PropagationDirectory/Ray.h"
+#include "include/Propagation/Ray.h"
 #include <nlohmann/json.hpp>
 
 

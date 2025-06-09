@@ -11,6 +11,7 @@
 #include "Room.h"
 #include <fstream>
 #include <nlohmann/json.hpp>
+#include "include/Propagation/Ray.h"
 
 
 using namespace std;
